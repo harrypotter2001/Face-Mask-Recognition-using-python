@@ -1,22 +1,8 @@
-# Face recognition in presence of mask
-
-The task in this project is to match a face image without any occlusion with a face image covered with one of these masking approaches. This repo is a solution of summer challenge given by IITJ.
-
-## Demo 
-
-<p>
-<p align="left"><img height="250" width=200" src="https://github.com/Garvit-32/Face-recognition-in-presence-of-Mask/blob/master/readmeImages/01-1.jpg" alt="01-1"/><img src="https://github.com/Garvit-32/Face-recognition-in-presence-of-Mask/blob/master/readmeImages/arrow.png" alt="arrow"/><img height="250" width=200" src="https://github.com/Garvit-32/Face-recognition-in-presence-of-Mask/blob/master/readmeImages/01-2.jpg" alt="01-2"/>
-</p>
-<p align="left"><img height="250" width=200" src="https://github.com/Garvit-32/Face-recognition-in-presence-of-Mask/blob/master/readmeImages/02-1.png" alt="02-1"/><img src="https://github.com/Garvit-32/Face-recognition-in-presence-of-Mask/blob/master/readmeImages/arrow.png" alt="arrow"/><img height="250" width=200" src="https://github.com/Garvit-32/Face-recognition-in-presence-of-Mask/blob/master/readmeImages/02-2.png" alt="02-2"/>
-</p>
-</p>
+# Face mask recognition using python
 
 
 ## Steps to run 
  1. Clone this repository
- ```
- git clone https://github.com/Garvit-32/Face-recognition-in-presence-of-Mask.git
- ``` 
  2. Install all the dependencies
 ```
 pip install -r requirements.txt
